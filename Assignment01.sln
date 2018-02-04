@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorGUI", "Assignment
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterGUI", "PrinterGUI\PrinterGUI.csproj", "{789FDC25-4663-46BA-BC4A-AC838A3BACE0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureConversion", "TemperatureConversion\TemperatureConversion.csproj", "{CFE38537-836A-423F-A905-CAFEE6FE4965}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{789FDC25-4663-46BA-BC4A-AC838A3BACE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{789FDC25-4663-46BA-BC4A-AC838A3BACE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{789FDC25-4663-46BA-BC4A-AC838A3BACE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFE38537-836A-423F-A905-CAFEE6FE4965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE38537-836A-423F-A905-CAFEE6FE4965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE38537-836A-423F-A905-CAFEE6FE4965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE38537-836A-423F-A905-CAFEE6FE4965}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
