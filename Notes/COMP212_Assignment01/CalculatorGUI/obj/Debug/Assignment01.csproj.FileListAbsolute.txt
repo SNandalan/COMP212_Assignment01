@@ -1,0 +1,9 @@
+H:\COMP212\Assignment01\Assignment01\bin\Debug\Assignment01.exe.config
+H:\COMP212\Assignment01\Assignment01\bin\Debug\Assignment01.exe
+H:\COMP212\Assignment01\Assignment01\bin\Debug\Assignment01.pdb
+H:\COMP212\Assignment01\Assignment01\obj\Debug\Assignment01.csprojResolveAssemblyReference.cache
+H:\COMP212\Assignment01\Assignment01\obj\Debug\Assignment01.CalculatorUI.resources
+H:\COMP212\Assignment01\Assignment01\obj\Debug\Assignment01.Properties.Resources.resources
+H:\COMP212\Assignment01\Assignment01\obj\Debug\Assignment01.csproj.GenerateResource.Cache
+H:\COMP212\Assignment01\Assignment01\obj\Debug\Assignment01.exe
+H:\COMP212\Assignment01\Assignment01\obj\Debug\Assignment01.pdb

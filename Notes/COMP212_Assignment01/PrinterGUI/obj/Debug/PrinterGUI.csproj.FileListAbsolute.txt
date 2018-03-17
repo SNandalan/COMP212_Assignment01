@@ -1,0 +1,9 @@
+H:\COMP212\Assignment01\PrinterGUI\bin\Debug\PrinterGUI.exe.config
+H:\COMP212\Assignment01\PrinterGUI\obj\Debug\PrinterGUI.PrinterGUI.resources
+H:\COMP212\Assignment01\PrinterGUI\obj\Debug\PrinterGUI.Properties.Resources.resources
+H:\COMP212\Assignment01\PrinterGUI\obj\Debug\PrinterGUI.csproj.GenerateResource.Cache
+H:\COMP212\Assignment01\PrinterGUI\bin\Debug\PrinterGUI.exe
+H:\COMP212\Assignment01\PrinterGUI\bin\Debug\PrinterGUI.pdb
+H:\COMP212\Assignment01\PrinterGUI\obj\Debug\PrinterGUI.exe
+H:\COMP212\Assignment01\PrinterGUI\obj\Debug\PrinterGUI.pdb
+H:\COMP212\Assignment01\PrinterGUI\obj\Debug\PrinterGUI.csprojResolveAssemblyReference.cache

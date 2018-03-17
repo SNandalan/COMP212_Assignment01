@@ -1,0 +1,6 @@
+H:\COMP 123\Week01\BadRectangleDemo\bin\Debug\BadRectangleDemo.exe.config
+H:\COMP 123\Week01\BadRectangleDemo\bin\Debug\BadRectangleDemo.exe
+H:\COMP 123\Week01\BadRectangleDemo\bin\Debug\BadRectangleDemo.pdb
+H:\COMP 123\Week01\BadRectangleDemo\obj\Debug\BadRectangleDemo.csprojResolveAssemblyReference.cache
+H:\COMP 123\Week01\BadRectangleDemo\obj\Debug\BadRectangleDemo.exe
+H:\COMP 123\Week01\BadRectangleDemo\obj\Debug\BadRectangleDemo.pdb

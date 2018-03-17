@@ -1,0 +1,6 @@
+H:\COMP 123\Week01\CarDemo\bin\Debug\CarDemo.exe.config
+H:\COMP 123\Week01\CarDemo\bin\Debug\CarDemo.exe
+H:\COMP 123\Week01\CarDemo\bin\Debug\CarDemo.pdb
+H:\COMP 123\Week01\CarDemo\obj\Debug\CarDemo.csprojResolveAssemblyReference.cache
+H:\COMP 123\Week01\CarDemo\obj\Debug\CarDemo.exe
+H:\COMP 123\Week01\CarDemo\obj\Debug\CarDemo.pdb

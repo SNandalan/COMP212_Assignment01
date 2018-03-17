@@ -1,0 +1,6 @@
+E:\Sumi\COMP 123-Programming\Assignments\Assignment1\bin\Debug\Assignment1.exe.config
+E:\Sumi\COMP 123-Programming\Assignments\Assignment1\bin\Debug\Assignment1.exe
+E:\Sumi\COMP 123-Programming\Assignments\Assignment1\bin\Debug\Assignment1.pdb
+E:\Sumi\COMP 123-Programming\Assignments\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+E:\Sumi\COMP 123-Programming\Assignments\Assignment1\obj\Debug\Assignment1.exe
+E:\Sumi\COMP 123-Programming\Assignments\Assignment1\obj\Debug\Assignment1.pdb

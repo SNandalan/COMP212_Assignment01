@@ -1,0 +1,12 @@
+H:\COMP 123\Week03\Time\bin\Debug\Time.exe.config
+H:\COMP 123\Week03\Time\obj\Debug\Time.csprojResolveAssemblyReference.cache
+H:\COMP 123\Week03\Time\bin\Debug\Time.exe
+H:\COMP 123\Week03\Time\bin\Debug\Time.pdb
+H:\COMP 123\Week03\Time\obj\Debug\Time.exe
+H:\COMP 123\Week03\Time\obj\Debug\Time.pdb
+C:\Users\sushm\Desktop\Notes\COMP 123-Programming\Week03\Time\bin\Debug\Time.exe.config
+C:\Users\sushm\Desktop\Notes\COMP 123-Programming\Week03\Time\bin\Debug\Time.exe
+C:\Users\sushm\Desktop\Notes\COMP 123-Programming\Week03\Time\bin\Debug\Time.pdb
+C:\Users\sushm\Desktop\Notes\COMP 123-Programming\Week03\Time\obj\Debug\Time.csprojResolveAssemblyReference.cache
+C:\Users\sushm\Desktop\Notes\COMP 123-Programming\Week03\Time\obj\Debug\Time.exe
+C:\Users\sushm\Desktop\Notes\COMP 123-Programming\Week03\Time\obj\Debug\Time.pdb

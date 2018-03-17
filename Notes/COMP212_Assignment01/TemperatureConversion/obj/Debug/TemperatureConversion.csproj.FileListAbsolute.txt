@@ -1,0 +1,17 @@
+H:\COMP212\Assignment01\TemperatureConversion\bin\Debug\TemperatureConversion.exe.config
+H:\COMP212\Assignment01\TemperatureConversion\bin\Debug\TemperatureConversion.exe
+H:\COMP212\Assignment01\TemperatureConversion\bin\Debug\TemperatureConversion.pdb
+H:\COMP212\Assignment01\TemperatureConversion\obj\Debug\TemperatureConversion.Properties.Resources.resources
+H:\COMP212\Assignment01\TemperatureConversion\obj\Debug\TemperatureConversion.TempGUI.resources
+H:\COMP212\Assignment01\TemperatureConversion\obj\Debug\TemperatureConversion.csproj.GenerateResource.Cache
+H:\COMP212\Assignment01\TemperatureConversion\obj\Debug\TemperatureConversion.exe
+H:\COMP212\Assignment01\TemperatureConversion\obj\Debug\TemperatureConversion.pdb
+C:\Users\sushm\Desktop\Assignment01\TemperatureConversion\bin\Debug\TemperatureConversion.exe.config
+C:\Users\sushm\Desktop\Assignment01\TemperatureConversion\bin\Debug\TemperatureConversion.exe
+C:\Users\sushm\Desktop\Assignment01\TemperatureConversion\bin\Debug\TemperatureConversion.pdb
+C:\Users\sushm\Desktop\Assignment01\TemperatureConversion\obj\Debug\TemperatureConversion.Properties.Resources.resources
+C:\Users\sushm\Desktop\Assignment01\TemperatureConversion\obj\Debug\TemperatureConversion.TempGUI.resources
+C:\Users\sushm\Desktop\Assignment01\TemperatureConversion\obj\Debug\TemperatureConversion.csproj.GenerateResource.Cache
+C:\Users\sushm\Desktop\Assignment01\TemperatureConversion\obj\Debug\TemperatureConversion.csproj.CoreCompileInputs.cache
+C:\Users\sushm\Desktop\Assignment01\TemperatureConversion\obj\Debug\TemperatureConversion.exe
+C:\Users\sushm\Desktop\Assignment01\TemperatureConversion\obj\Debug\TemperatureConversion.pdb

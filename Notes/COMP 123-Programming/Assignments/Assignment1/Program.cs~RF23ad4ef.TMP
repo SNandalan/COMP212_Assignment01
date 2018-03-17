@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Assignment1
+{
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			Rational frac1 = new Rational(2, 5);
+			Console.WriteLine(frac1);
+			Rational frac2 = new Rational(5);
+			Rational frac3 = new Rational(9,2);
+			Rational frac4 = new Rational(51,8);
+
+			frac1.IncreaseBy(frac2);
+			Console.WriteLine(frac1);
+		}
+	}
+}

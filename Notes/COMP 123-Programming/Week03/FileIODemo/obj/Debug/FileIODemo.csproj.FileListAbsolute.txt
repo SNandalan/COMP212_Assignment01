@@ -1,0 +1,5 @@
+H:\COMP 123\Week03\FileIODemo\bin\Debug\FileIODemo.exe.config
+H:\COMP 123\Week03\FileIODemo\bin\Debug\FileIODemo.exe
+H:\COMP 123\Week03\FileIODemo\bin\Debug\FileIODemo.pdb
+H:\COMP 123\Week03\FileIODemo\obj\Debug\FileIODemo.exe
+H:\COMP 123\Week03\FileIODemo\obj\Debug\FileIODemo.pdb

@@ -1,0 +1,10 @@
+C:\Users\sushm\Desktop\300923159(Nandalan)_ASS#2\300923159(Nandalan)_ASS2\300923159(Nandalan)_ASS2\obj\Debug\Restaurant Bill Calculator.csprojResolveAssemblyReference.cache
+C:\Users\sushm\Desktop\300923159(Nandalan)_ASS#2\300923159(Nandalan)_ASS2\300923159(Nandalan)_ASS2\obj\Debug\_300931945_Myrzaly__ASS2.Properties.Resources.resources
+C:\Users\sushm\Desktop\300923159(Nandalan)_ASS#2\300923159(Nandalan)_ASS2\300923159(Nandalan)_ASS2\obj\Debug\Restaurant Bill Calculator.csproj.GenerateResource.Cache
+C:\Users\sushm\Desktop\300923159(Nandalan)_ASS#2\300923159(Nandalan)_ASS2\300923159(Nandalan)_ASS2\obj\Debug\Restaurant Bill Calculator.csproj.CoreCompileInputs.cache
+C:\Users\sushm\Desktop\300923159(Nandalan)_ASS#2\300923159(Nandalan)_ASS2\300923159(Nandalan)_ASS2\obj\Debug\300931945(Myrzaly)_ASS2.exe
+C:\Users\sushm\Desktop\300923159(Nandalan)_ASS#2\300923159(Nandalan)_ASS2\300923159(Nandalan)_ASS2\obj\Debug\300931945(Myrzaly)_ASS2.pdb
+C:\Users\sushm\Desktop\300923159(Nandalan)_ASS#2\300923159(Nandalan)_ASS2\300923159(Nandalan)_ASS2\obj\Debug\Restaurant_Bill_Calculator.BillCalculator.resources
+C:\Users\sushm\Desktop\300923159(Nandalan)_ASS#2\300923159(Nandalan)_ASS2\300923159(Nandalan)_ASS2\bin\Debug\300931945(Myrzaly)_ASS2.exe.config
+C:\Users\sushm\Desktop\300923159(Nandalan)_ASS#2\300923159(Nandalan)_ASS2\300923159(Nandalan)_ASS2\bin\Debug\300931945(Myrzaly)_ASS2.exe
+C:\Users\sushm\Desktop\300923159(Nandalan)_ASS#2\300923159(Nandalan)_ASS2\300923159(Nandalan)_ASS2\bin\Debug\300931945(Myrzaly)_ASS2.pdb

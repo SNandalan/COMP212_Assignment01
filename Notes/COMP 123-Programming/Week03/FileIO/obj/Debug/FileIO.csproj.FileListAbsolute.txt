@@ -1,0 +1,6 @@
+H:\COMP 123\Week03\FileIO\bin\Debug\FileIO.exe.config
+H:\COMP 123\Week03\FileIO\bin\Debug\FileIO.exe
+H:\COMP 123\Week03\FileIO\bin\Debug\FileIO.pdb
+H:\COMP 123\Week03\FileIO\obj\Debug\FileIO.csprojResolveAssemblyReference.cache
+H:\COMP 123\Week03\FileIO\obj\Debug\FileIO.exe
+H:\COMP 123\Week03\FileIO\obj\Debug\FileIO.pdb

@@ -1,0 +1,6 @@
+H:\COMP 123\Week02\Medals\bin\Debug\Medals.exe.config
+H:\COMP 123\Week02\Medals\bin\Debug\Medals.exe
+H:\COMP 123\Week02\Medals\bin\Debug\Medals.pdb
+H:\COMP 123\Week02\Medals\obj\Debug\Medals.csprojResolveAssemblyReference.cache
+H:\COMP 123\Week02\Medals\obj\Debug\Medals.exe
+H:\COMP 123\Week02\Medals\obj\Debug\Medals.pdb

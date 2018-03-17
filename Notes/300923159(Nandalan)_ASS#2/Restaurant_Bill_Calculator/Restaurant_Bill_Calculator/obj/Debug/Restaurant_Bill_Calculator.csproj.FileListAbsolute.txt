@@ -1,0 +1,10 @@
+C:\Users\sushm\Desktop\Notes\300923159(Nandalan)_ASS#2\Restaurant_Bill_Calculator\Restaurant_Bill_Calculator\bin\Debug\Restaurant_Bill_Calculator.exe.config
+C:\Users\sushm\Desktop\Notes\300923159(Nandalan)_ASS#2\Restaurant_Bill_Calculator\Restaurant_Bill_Calculator\bin\Debug\Restaurant_Bill_Calculator.exe
+C:\Users\sushm\Desktop\Notes\300923159(Nandalan)_ASS#2\Restaurant_Bill_Calculator\Restaurant_Bill_Calculator\bin\Debug\Restaurant_Bill_Calculator.pdb
+C:\Users\sushm\Desktop\Notes\300923159(Nandalan)_ASS#2\Restaurant_Bill_Calculator\Restaurant_Bill_Calculator\obj\Debug\Restaurant_Bill_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\sushm\Desktop\Notes\300923159(Nandalan)_ASS#2\Restaurant_Bill_Calculator\Restaurant_Bill_Calculator\obj\Debug\Restaurant_Bill_Calculator.BillCalculator.resources
+C:\Users\sushm\Desktop\Notes\300923159(Nandalan)_ASS#2\Restaurant_Bill_Calculator\Restaurant_Bill_Calculator\obj\Debug\Restaurant_Bill_Calculator.Properties.Resources.resources
+C:\Users\sushm\Desktop\Notes\300923159(Nandalan)_ASS#2\Restaurant_Bill_Calculator\Restaurant_Bill_Calculator\obj\Debug\Restaurant_Bill_Calculator.csproj.GenerateResource.Cache
+C:\Users\sushm\Desktop\Notes\300923159(Nandalan)_ASS#2\Restaurant_Bill_Calculator\Restaurant_Bill_Calculator\obj\Debug\Restaurant_Bill_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\sushm\Desktop\Notes\300923159(Nandalan)_ASS#2\Restaurant_Bill_Calculator\Restaurant_Bill_Calculator\obj\Debug\Restaurant_Bill_Calculator.exe
+C:\Users\sushm\Desktop\Notes\300923159(Nandalan)_ASS#2\Restaurant_Bill_Calculator\Restaurant_Bill_Calculator\obj\Debug\Restaurant_Bill_Calculator.pdb
